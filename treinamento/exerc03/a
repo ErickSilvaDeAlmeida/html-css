@@ -1,0 +1,66 @@
+
+ClasseEstrela{
+    nome=null
+    p1=0
+    p2=static
+}
+
+(static)p2=1-2-3-4-33-34
+
+Estrela v1{
+    nome=Sirius-Antares-Canopus
+    p1=1
+   
+}
+
+Estrela v2{
+    nome=Rigel-Sol
+    p1=1
+}
+
+Estrela v3{
+    nome=Vega-Altair
+    p1=1
+}
+
+
+int x = 81
+
+teste2{
+    a=12
+    x=18
+    Estrela arv{
+        nome=
+        p1=46
+    }
+}
+
+Teste3{
+    Estrela v2{
+        nome=Vega
+        p1=1
+        
+    }
+}
+
+Console=
+
+Antares
+Sol
+81
+Canopus
+81
+1
+33
+Sol
+1
+Sol
+
+
+
+
+
+
+
+
+
